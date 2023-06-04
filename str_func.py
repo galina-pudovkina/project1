@@ -1,4 +1,5 @@
 def foo(value):
+    """Выводит текст с заглавными буквами"""
     return value.upper()
 
 def boo(text):
